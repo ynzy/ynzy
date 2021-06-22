@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### My name is zhangyong. 
+##### My name is ynzy. 
 #####  Recording my bits and pieces here。  
 #####  I decided to become a qualified front-end developer
 #####  Maybe I am not good enough.  
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### [zhangyong's Blog](https://ynzy.github.io/yufanBlog/)
 
-![Liugezhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugezhou&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
+![ynzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzy&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugezhou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynzy&layout=compact)
 
