@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #####  Maybe I am not good enough.  
 #####  but fortunately I am still working hard.     
 
-#### [zhangyong's Blog](https://ynzy.github.io)
+#### [zhangyong's Blog](https://ynzy.github.io/yufanBlog/)
 
 ![Liugezhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugezhou&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
 
