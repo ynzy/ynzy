@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### [zhangyong's Blog](https://ynzy.github.io/yufanBlog/)
 
-![ynzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzy&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
+![ynzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzy&show_icons=true&theme=flag-india)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynzy&layout=compact)
 
