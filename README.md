@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 #### [zhangyong's Blog](https://ynzy.github.io/yufanBlog/)
 
-![ynzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzy&show_icons=true&theme=flag-india)
+![ynzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynzy&show_icons=true&theme=flag-india&hide=prs,issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynzy&layout=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vue3-h5-template)](https://github.com/ynzy/vue3-h5-template)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynzy&layout=compact) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vue3-h5-template)](https://github.com/ynzy/vue3-h5-template)
