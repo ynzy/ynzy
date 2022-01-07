@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynzy&layout=compact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vue3-h5-template)](https://github.com/ynzy/vue3-h5-template)
