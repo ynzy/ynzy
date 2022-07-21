@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vue3-h5-template)](https://github.com/ynzy/vue3-h5-template)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vite-vue3-template)](https://github.com/ynzy/vite-vue3-template)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vite-vue3-h5-template)](https://github.com/ynzy/vite-vue3-h5-template) 
 
+<div align="center">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
+</div>
+
