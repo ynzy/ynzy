@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 - Here are some of the projects I'm happy with ...
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vue_base_template)](https://github.com/ynzy/vue_base_template) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vue3-h5-template)](https://github.com/ynzy/vue3-h5-template)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vite-vue3-template)](https://github.com/ynzy/vite-vue3-template)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynzy&repo=vite-vue3-h5-template)](https://github.com/ynzy/vite-vue3-h5-template) 
 
